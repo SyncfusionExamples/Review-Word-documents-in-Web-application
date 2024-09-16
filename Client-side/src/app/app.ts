@@ -7,7 +7,7 @@ import { TitleBar } from './title-bar';
  */
 
     
-    let hostUrl: string = 'https://ej2services.syncfusion.com/production/web-services/';
+    let hostUrl: string = 'https://services.syncfusion.com/js/production/';
 
     let container: DocumentEditorContainer = new DocumentEditorContainer({ enableToolbar: true });
     DocumentEditorContainer.Inject(Toolbar);
