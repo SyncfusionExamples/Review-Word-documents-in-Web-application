@@ -1,5 +1,19 @@
-# Review Word documents with track changes and comments in Web application
-Review a Word document with track changes and comments in Web application without Microsoft Word or Office interop dependencies.
+# Review Word documents with track changes and comments in Web application 
+This repository provides a working example of how to review Word documents with track changes and comments using the Syncfusion® Document Editor (a.k.a. Word Processor) in a web application. It enables users to review, track, and manage revisions without Microsoft Word or Office interop dependencies. 
 
-## Blog reference
-[Review Word Documents with Track Changes and Comments in a Web Application](https://www.syncfusion.com/blogs/post/review-word-documents-track-changes-and-comments-in-web-application.aspx)
+
+# Blog reference 
+[Review Word Documents with Track Changes and Comments in a Web Application ](https://www.syncfusion.com/blogs/post/review-word-documents-track-changes-and-comments-in-web-application)
+
+
+# Support and feedback 
+
+For any other queries, reach our [Syncfusion® support team](https://support.syncfusion.com/?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) or post the queries through the [community forums](https://www.syncfusion.com/forums?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples). 
+
+Request new feature through [Syncfusion® feedback portal](https://www.syncfusion.com/feedback?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples). 
+
+# License 
+
+This is a commercial product and requires a paid license for possession or use. Syncfusion's licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/license/studio/22.2.5/syncfusion_essential_studio_eula.pdf?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples). You can purchase a license [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) or start a free 30\-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples). 
+
+
