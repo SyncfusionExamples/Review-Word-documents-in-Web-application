@@ -1,5 +1,5 @@
-# Review Word documents with track changes and comments in Web application 
-This repository provides a working example of how to review Word documents with track changes and comments using the Syncfusion® Document Editor (a.k.a. Word Processor) in a web application. It enables users to review, track, and manage revisions without Microsoft Word or Office interop dependencies. 
+# Review Word documents with track changes and comments in Web application (JavaScript ES6 DOCX Editor)
+This repository provides a working example of how to review Word documents with track changes and comments using the Syncfusion® [JavaScript DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/javascript-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor) in a web application. It enables users to review, track, and manage revisions without Microsoft Word or Office interop dependencies. 
 
 # Blog reference 
 [Review Word Documents with Track Changes and Comments in a Web Application ](https://www.syncfusion.com/blogs/post/review-word-documents-track-changes-and-comments-in-web-application)
